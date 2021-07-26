@@ -1,0 +1,65 @@
+* {
+    margin: 0;
+}
+
+
+/* body {
+    background-image: url("bgi.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+} */
+
+h1 {
+    background-color: gray;
+    color: white;
+    text-align: center;
+    padding: 2px;
+}
+
+.formstyle {
+    width: 250px;
+    height: 530px;
+    margin: auto;
+    margin-top: 100px;
+    border: 3px solid grey;
+    border-radius: 5px;
+    padding: 20px;
+}
+
+.input-box {
+    height: 70px;
+    width: 225px;
+    padding: 5px;
+    background-color: grey;
+    color: white;
+}
+
+input {
+    width: 20px;
+    background-color: grey;
+    color: white;
+    border: 3px solid gray;
+    border-radius: 5px;
+    padding: 20px;
+    margin: 5px;
+    font-size: 10px;
+}
+
+#clear {
+    height: 70px;
+    width: 170px;
+    padding: 5px;
+    background-color: grey;
+    color: white;
+}
+
+#b {
+    width: 20px;
+    background-color: grey;
+    color: white;
+    border: 3px solid gray;
+    border-radius: 5px;
+    padding: 20px;
+    margin: 5px;
+    font-size: 10px;
+}
